@@ -1,0 +1,4276 @@
+
+1/11/2021 10:05:17 AM
+Objective:  New Objective: [total profit]
+  
+Simulation: 1   ****NEW BEST SOLUTION****
+1/11/2021 10:05:19 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  35
+Taget Stock:  50
+trs:  0
+  
+Values of Output Variables
+total profit:  36656.3333333333
+  
+New Objective:  36656.3333333333(Best = 36656.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 2   ****NEW BEST SOLUTION****
+1/11/2021 10:05:20 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  30
+Taget Stock:  48
+trs:  0
+  
+Values of Output Variables
+total profit:  37065.3333333333
+  
+New Objective:  37065.3333333333(Best = 37065.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 3   ****NEW BEST SOLUTION****
+1/11/2021 10:05:21 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  28
+Taget Stock:  47
+trs:  0
+  
+Values of Output Variables
+total profit:  37173
+  
+New Objective:  37173(Best = 37173)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 4
+1/11/2021 10:05:23 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  27
+Taget Stock:  47
+trs:  0
+  
+Values of Output Variables
+total profit:  35903.6666666667
+  
+New Objective:  35903.6666666667(Best = 37173)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 5   ****NEW BEST SOLUTION****
+1/11/2021 10:05:24 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  20
+Taget Stock:  30
+trs:  -10
+  
+Values of Output Variables
+total profit:  38048.3333333333
+  
+New Objective:  38048.3333333333(Best = 38048.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 6
+1/11/2021 10:05:25 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  65
+trs:  10
+  
+Values of Output Variables
+total profit:  1408
+  
+New Objective:  1408(Best = 38048.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 7   ****NEW BEST SOLUTION****
+1/11/2021 10:05:27 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  25
+Taget Stock:  39
+trs:  -5
+  
+Values of Output Variables
+total profit:  49060
+  
+New Objective:  49060(Best = 49060)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 8
+1/11/2021 10:05:28 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  24
+Taget Stock:  35
+trs:  -7
+  
+Values of Output Variables
+total profit:  47235
+  
+New Objective:  47235(Best = 49060)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 9
+1/11/2021 10:05:29 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  35
+Taget Stock:  56
+trs:  5
+  
+Values of Output Variables
+total profit:  21310.3333333333
+  
+New Objective:  21310.3333333333(Best = 49060)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 10
+1/11/2021 10:05:30 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  20
+Taget Stock:  30
+trs:  0
+  
+Values of Output Variables
+total profit:  1865.66666666667
+  
+New Objective:  1865.66666666667(Best = 49060)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 11
+1/11/2021 10:05:32 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  22
+Taget Stock:  64
+trs:  -8
+  
+Values of Output Variables
+total profit:  26013.3333333333
+  
+New Objective:  26013.3333333333(Best = 49060)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 12
+1/11/2021 10:05:33 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  35
+Taget Stock:  31
+trs:  8
+  
+Values of Output Variables
+total profit:  -44890
+  
+New Objective:  -44890(Best = 49060)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 13
+1/11/2021 10:05:35 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  23
+Taget Stock:  63
+trs:  7
+  
+Values of Output Variables
+total profit:  -29223
+  
+New Objective:  -29223(Best = 49060)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 14
+1/11/2021 10:05:36 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  37
+Taget Stock:  32
+trs:  -7
+  
+Values of Output Variables
+total profit:  38637.6666666667
+  
+New Objective:  38637.6666666667(Best = 49060)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 15
+1/11/2021 10:05:37 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  34
+Taget Stock:  64
+trs:  -7
+  
+Values of Output Variables
+total profit:  28243.6666666667
+  
+New Objective:  28243.6666666667(Best = 49060)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 16
+1/11/2021 10:05:38 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  20
+Taget Stock:  46
+trs:  5
+  
+Values of Output Variables
+total profit:  -3734.66666666667
+  
+New Objective:  -3734.66666666667(Best = 49060)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 17
+1/11/2021 10:05:40 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  32
+Taget Stock:  47
+trs:  -9
+  
+Values of Output Variables
+total profit:  44424.3333333333
+  
+New Objective:  44424.3333333333(Best = 49060)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 18
+1/11/2021 10:05:41 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  27
+Taget Stock:  39
+trs:  8
+  
+Values of Output Variables
+total profit:  -2013.66666666667
+  
+New Objective:  -2013.66666666667(Best = 49060)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 19
+1/11/2021 10:05:42 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  29
+Taget Stock:  64
+trs:  1
+  
+Values of Output Variables
+total profit:  14726.6666666667
+  
+New Objective:  14726.6666666667(Best = 49060)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 20
+1/11/2021 10:05:44 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  34
+Taget Stock:  45
+trs:  10
+  
+Values of Output Variables
+total profit:  11002.3333333333
+  
+New Objective:  11002.3333333333(Best = 49060)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 21
+1/11/2021 10:05:45 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  31
+trs:  8
+  
+Values of Output Variables
+total profit:  -44890
+  
+New Objective:  -44890(Best = 49060)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 22
+1/11/2021 10:05:46 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  35
+Taget Stock:  63
+trs:  7
+  
+Values of Output Variables
+total profit:  6551
+  
+New Objective:  6551(Best = 49060)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 23
+1/11/2021 10:05:48 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  26
+Taget Stock:  41
+trs:  -4
+  
+Values of Output Variables
+total profit:  48096
+  
+New Objective:  48096(Best = 49060)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 24   ****NEW BEST SOLUTION****
+1/11/2021 10:05:49 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  24
+Taget Stock:  36
+trs:  -7
+  
+Values of Output Variables
+total profit:  49815.3333333333
+  
+New Objective:  49815.3333333333(Best = 49815.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 25   ****NEW BEST SOLUTION****
+1/11/2021 10:05:50 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  24
+Taget Stock:  37
+trs:  -7
+  
+Values of Output Variables
+total profit:  51026.6666666667
+  
+New Objective:  51026.6666666667(Best = 51026.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 26
+1/11/2021 10:05:51 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  27
+Taget Stock:  48
+trs:  0
+  
+Values of Output Variables
+total profit:  32341.3333333333
+  
+New Objective:  32341.3333333333(Best = 51026.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 27
+1/11/2021 10:05:53 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  65
+trs:  5
+  
+Values of Output Variables
+total profit:  13215.6666666667
+  
+New Objective:  13215.6666666667(Best = 51026.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 28
+1/11/2021 10:05:54 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  27
+Taget Stock:  39
+trs:  -6
+  
+Values of Output Variables
+total profit:  50787
+  
+New Objective:  50787(Best = 51026.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 29
+1/11/2021 10:05:55 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  30
+Taget Stock:  38
+trs:  -5
+  
+Values of Output Variables
+total profit:  47538.3333333333
+  
+New Objective:  47538.3333333333(Best = 51026.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 30
+1/11/2021 10:05:57 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  20
+Taget Stock:  42
+trs:  -4
+  
+Values of Output Variables
+total profit:  32835.3333333333
+  
+New Objective:  32835.3333333333(Best = 51026.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 31
+1/11/2021 10:05:58 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  48
+trs:  -2
+  
+Values of Output Variables
+total profit:  40231.6666666667
+  
+New Objective:  40231.6666666667(Best = 51026.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 32
+1/11/2021 10:05:59 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  24
+Taget Stock:  38
+trs:  -7
+  
+Values of Output Variables
+total profit:  50901.6666666667
+  
+New Objective:  50901.6666666667(Best = 51026.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 33
+1/11/2021 10:06:00 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  26
+Taget Stock:  36
+trs:  -7
+  
+Values of Output Variables
+total profit:  48583.6666666667
+  
+New Objective:  48583.6666666667(Best = 51026.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 34
+1/11/2021 10:06:02 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  65
+trs:  3
+  
+Values of Output Variables
+total profit:  15502.3333333333
+  
+New Objective:  15502.3333333333(Best = 51026.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 35
+1/11/2021 10:06:03 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  26
+Taget Stock:  34
+trs:  -7
+  
+Values of Output Variables
+total profit:  44766.3333333333
+  
+New Objective:  44766.3333333333(Best = 51026.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 36
+1/11/2021 10:06:04 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  20
+Taget Stock:  36
+trs:  -7
+  
+Values of Output Variables
+total profit:  46614.3333333333
+  
+New Objective:  46614.3333333333(Best = 51026.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 37
+1/11/2021 10:06:06 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  40
+trs:  -7
+  
+Values of Output Variables
+total profit:  50249.6666666667
+  
+New Objective:  50249.6666666667(Best = 51026.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 38
+1/11/2021 10:06:07 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  22
+Taget Stock:  35
+trs:  -8
+  
+Values of Output Variables
+total profit:  48145
+  
+New Objective:  48145(Best = 51026.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 39
+1/11/2021 10:06:08 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  28
+Taget Stock:  40
+trs:  -4
+  
+Values of Output Variables
+total profit:  48870.6666666667
+  
+New Objective:  48870.6666666667(Best = 51026.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 40   ****NEW BEST SOLUTION****
+1/11/2021 10:06:09 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  34
+Taget Stock:  40
+trs:  -9
+  
+Values of Output Variables
+total profit:  51991.6666666667
+  
+New Objective:  51991.6666666667(Best = 51991.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 41   ****NEW BEST SOLUTION****
+1/11/2021 10:06:11 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  36
+Taget Stock:  41
+trs:  -10
+  
+Values of Output Variables
+total profit:  52278.3333333333
+  
+New Objective:  52278.3333333333(Best = 52278.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 42
+1/11/2021 10:06:12 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  37
+Taget Stock:  42
+trs:  -10
+  
+Values of Output Variables
+total profit:  51227.6666666667
+  
+New Objective:  51227.6666666667(Best = 52278.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 43
+1/11/2021 10:06:13 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  30
+Taget Stock:  55
+trs:  -10
+  
+Values of Output Variables
+total profit:  37654.6666666667
+  
+New Objective:  37654.6666666667(Best = 52278.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 44
+1/11/2021 10:06:15 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  26
+Taget Stock:  64
+trs:  -10
+  
+Values of Output Variables
+total profit:  30898.6666666667
+  
+New Objective:  30898.6666666667(Best = 52278.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 45
+1/11/2021 10:06:16 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  65
+trs:  -10
+  
+Values of Output Variables
+total profit:  20949.3333333333
+  
+New Objective:  20949.3333333333(Best = 52278.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 46
+1/11/2021 10:06:17 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  28
+Taget Stock:  45
+trs:  -9
+  
+Values of Output Variables
+total profit:  48021
+  
+New Objective:  48021(Best = 52278.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 47
+1/11/2021 10:06:19 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  58
+trs:  -8
+  
+Values of Output Variables
+total profit:  25649.3333333333
+  
+New Objective:  25649.3333333333(Best = 52278.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 48
+1/11/2021 10:06:20 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  64
+trs:  -8
+  
+Values of Output Variables
+total profit:  21107.3333333333
+  
+New Objective:  21107.3333333333(Best = 52278.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 49
+1/11/2021 10:06:21 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  65
+trs:  1
+  
+Values of Output Variables
+total profit:  17090.3333333333
+  
+New Objective:  17090.3333333333(Best = 52278.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 50
+1/11/2021 10:06:22 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  34
+Taget Stock:  31
+trs:  -8
+  
+Values of Output Variables
+total profit:  36875.6666666667
+  
+New Objective:  36875.6666666667(Best = 52278.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 51
+1/11/2021 10:06:24 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  32
+trs:  -6
+  
+Values of Output Variables
+total profit:  36092
+  
+New Objective:  36092(Best = 52278.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 52
+1/11/2021 10:06:25 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  34
+trs:  -4
+  
+Values of Output Variables
+total profit:  37222.6666666667
+  
+New Objective:  37222.6666666667(Best = 52278.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 53
+1/11/2021 10:06:26 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  20
+Taget Stock:  65
+trs:  10
+  
+Values of Output Variables
+total profit:  -51058.3333333333
+  
+New Objective:  -51058.3333333333(Best = 52278.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 54
+1/11/2021 10:06:28 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  28
+Taget Stock:  37
+trs:  -8
+  
+Values of Output Variables
+total profit:  50863.6666666667
+  
+New Objective:  50863.6666666667(Best = 52278.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 55
+1/11/2021 10:06:29 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  35
+Taget Stock:  51
+trs:  8
+  
+Values of Output Variables
+total profit:  24109.3333333333
+  
+New Objective:  24109.3333333333(Best = 52278.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 56
+1/11/2021 10:06:30 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  23
+Taget Stock:  65
+trs:  7
+  
+Values of Output Variables
+total profit:  -26927.6666666667
+  
+New Objective:  -26927.6666666667(Best = 52278.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 57
+1/11/2021 10:06:31 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  35
+Taget Stock:  40
+trs:  -9
+  
+Values of Output Variables
+total profit:  51991.6666666667
+  
+New Objective:  51991.6666666667(Best = 52278.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 58
+1/11/2021 10:06:33 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  43
+trs:  -10
+  
+Values of Output Variables
+total profit:  50146.6666666667
+  
+New Objective:  50146.6666666667(Best = 52278.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 59
+1/11/2021 10:06:34 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  52
+trs:  -10
+  
+Values of Output Variables
+total profit:  35180.3333333333
+  
+New Objective:  35180.3333333333(Best = 52278.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 60   ****NEW BEST SOLUTION****
+1/11/2021 10:06:35 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  33
+Taget Stock:  40
+trs:  -10
+  
+Values of Output Variables
+total profit:  53128.3333333333
+  
+New Objective:  53128.3333333333(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 61
+1/11/2021 10:06:37 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  42
+trs:  -10
+  
+Values of Output Variables
+total profit:  51227.6666666667
+  
+New Objective:  51227.6666666667(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 62
+1/11/2021 10:06:38 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  32
+Taget Stock:  40
+trs:  -9
+  
+Values of Output Variables
+total profit:  51991.6666666667
+  
+New Objective:  51991.6666666667(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 63
+1/11/2021 10:06:39 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  34
+Taget Stock:  41
+trs:  -9
+  
+Values of Output Variables
+total profit:  51784.6666666667
+  
+New Objective:  51784.6666666667(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 64
+1/11/2021 10:06:40 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  31
+Taget Stock:  39
+trs:  -9
+  
+Values of Output Variables
+total profit:  51721.6666666667
+  
+New Objective:  51721.6666666667(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 65
+1/11/2021 10:06:42 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  39
+Taget Stock:  42
+trs:  -10
+  
+Values of Output Variables
+total profit:  51227.6666666667
+  
+New Objective:  51227.6666666667(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 66
+1/11/2021 10:06:43 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  50
+trs:  -10
+  
+Values of Output Variables
+total profit:  38127.3333333333
+  
+New Objective:  38127.3333333333(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 67
+1/11/2021 10:06:44 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  31
+Taget Stock:  39
+trs:  -8
+  
+Values of Output Variables
+total profit:  51348
+  
+New Objective:  51348(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 68
+1/11/2021 10:06:46 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  39
+Taget Stock:  41
+trs:  -10
+  
+Values of Output Variables
+total profit:  52278.3333333333
+  
+New Objective:  52278.3333333333(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 69
+1/11/2021 10:06:47 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  32
+Taget Stock:  41
+trs:  -10
+  
+Values of Output Variables
+total profit:  51760.3333333333
+  
+New Objective:  51760.3333333333(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 70
+1/11/2021 10:06:48 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  54
+trs:  -10
+  
+Values of Output Variables
+total profit:  30817
+  
+New Objective:  30817(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 71
+1/11/2021 10:06:49 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  31
+Taget Stock:  42
+trs:  -9
+  
+Values of Output Variables
+total profit:  51351.6666666667
+  
+New Objective:  51351.6666666667(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 72
+1/11/2021 10:06:51 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  31
+Taget Stock:  40
+trs:  -9
+  
+Values of Output Variables
+total profit:  51870.3333333333
+  
+New Objective:  51870.3333333333(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 73
+1/11/2021 10:06:52 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  35
+Taget Stock:  31
+trs:  10
+  
+Values of Output Variables
+total profit:  -53988.3333333333
+  
+New Objective:  -53988.3333333333(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 74
+1/11/2021 10:06:53 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  23
+Taget Stock:  63
+trs:  10
+  
+Values of Output Variables
+total profit:  -45084.6666666667
+  
+New Objective:  -45084.6666666667(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 75
+1/11/2021 10:06:55 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  35
+Taget Stock:  40
+trs:  -10
+  
+Values of Output Variables
+total profit:  53128.3333333333
+  
+New Objective:  53128.3333333333(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 76
+1/11/2021 10:06:56 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  32
+Taget Stock:  40
+trs:  -10
+  
+Values of Output Variables
+total profit:  53128.3333333333
+  
+New Objective:  53128.3333333333(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 77
+1/11/2021 10:06:57 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  31
+Taget Stock:  40
+trs:  -10
+  
+Values of Output Variables
+total profit:  52837
+  
+New Objective:  52837(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 78
+1/11/2021 10:06:59 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  38
+Taget Stock:  41
+trs:  -10
+  
+Values of Output Variables
+total profit:  52278.3333333333
+  
+New Objective:  52278.3333333333(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 79
+1/11/2021 10:07:00 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  34
+Taget Stock:  40
+trs:  -10
+  
+Values of Output Variables
+total profit:  53128.3333333333
+  
+New Objective:  53128.3333333333(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 80
+1/11/2021 10:07:01 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  41
+trs:  -10
+  
+Values of Output Variables
+total profit:  52278.3333333333
+  
+New Objective:  52278.3333333333(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 81
+1/11/2021 10:07:02 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  37
+Taget Stock:  41
+trs:  -10
+  
+Values of Output Variables
+total profit:  52278.3333333333
+  
+New Objective:  52278.3333333333(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 82
+1/11/2021 10:07:04 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  45
+trs:  -10
+  
+Values of Output Variables
+total profit:  46878.6666666667
+  
+New Objective:  46878.6666666667(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 83
+1/11/2021 10:07:07 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  33
+Taget Stock:  40
+trs:  -9
+  
+Values of Output Variables
+total profit:  51991.6666666667
+  
+New Objective:  51991.6666666667(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 84
+1/11/2021 10:07:09 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  30
+trs:  10
+  
+Values of Output Variables
+total profit:  -57218.6666666667
+  
+New Objective:  -57218.6666666667(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 85
+1/11/2021 10:07:10 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  38
+Taget Stock:  44
+trs:  6
+  
+Values of Output Variables
+total profit:  26092.6666666667
+  
+New Objective:  26092.6666666667(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 86
+1/11/2021 10:07:11 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  31
+Taget Stock:  64
+trs:  4
+  
+Values of Output Variables
+total profit:  11496.6666666667
+  
+New Objective:  11496.6666666667(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 87
+1/11/2021 10:07:12 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  20
+Taget Stock:  30
+trs:  10
+  
+Values of Output Variables
+total profit:  -56962.6666666667
+  
+New Objective:  -56962.6666666667(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 88
+1/11/2021 10:07:14 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  39
+Taget Stock:  50
+trs:  4
+  
+Values of Output Variables
+total profit:  33165.6666666667
+  
+New Objective:  33165.6666666667(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 89
+1/11/2021 10:07:15 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  35
+Taget Stock:  64
+trs:  1
+  
+Values of Output Variables
+total profit:  21481.6666666667
+  
+New Objective:  21481.6666666667(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 90
+1/11/2021 10:07:16 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  30
+trs:  -10
+  
+Values of Output Variables
+total profit:  37451
+  
+New Objective:  37451(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 91
+1/11/2021 10:07:18 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  33
+Taget Stock:  57
+trs:  5
+  
+Values of Output Variables
+total profit:  16168.6666666667
+  
+New Objective:  16168.6666666667(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 92
+1/11/2021 10:07:19 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  39
+Taget Stock:  65
+trs:  3
+  
+Values of Output Variables
+total profit:  16541.3333333333
+  
+New Objective:  16541.3333333333(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 93
+1/11/2021 10:07:20 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  20
+Taget Stock:  65
+trs:  -10
+  
+Values of Output Variables
+total profit:  30171
+  
+New Objective:  30171(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 94
+1/11/2021 10:07:21 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  36
+Taget Stock:  65
+trs:  3
+  
+Values of Output Variables
+total profit:  15773.3333333333
+  
+New Objective:  15773.3333333333(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 95
+1/11/2021 10:07:23 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  63
+trs:  0
+  
+Values of Output Variables
+total profit:  19107.6666666667
+  
+New Objective:  19107.6666666667(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 96
+1/11/2021 10:07:24 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  36
+Taget Stock:  59
+trs:  4
+  
+Values of Output Variables
+total profit:  19781.3333333333
+  
+New Objective:  19781.3333333333(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 97
+1/11/2021 10:07:25 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  65
+trs:  -4
+  
+Values of Output Variables
+total profit:  19555.6666666667
+  
+New Objective:  19555.6666666667(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 98
+1/11/2021 10:07:27 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  50
+trs:  6
+  
+Values of Output Variables
+total profit:  29593.3333333333
+  
+New Objective:  29593.3333333333(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 99
+1/11/2021 10:07:28 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  38
+Taget Stock:  63
+trs:  -5
+  
+Values of Output Variables
+total profit:  22842
+  
+New Objective:  22842(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 100
+1/11/2021 10:07:29 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  42
+trs:  8
+  
+Values of Output Variables
+total profit:  12452.6666666667
+  
+New Objective:  12452.6666666667(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 101
+1/11/2021 10:07:30 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  38
+Taget Stock:  62
+trs:  -9
+  
+Values of Output Variables
+total profit:  24316
+  
+New Objective:  24316(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 102
+1/11/2021 10:07:32 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  37
+Taget Stock:  55
+trs:  5
+  
+Values of Output Variables
+total profit:  24210
+  
+New Objective:  24210(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 103
+1/11/2021 10:07:33 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  35
+Taget Stock:  64
+trs:  -8
+  
+Values of Output Variables
+total profit:  27896.6666666667
+  
+New Objective:  27896.6666666667(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 104
+1/11/2021 10:07:34 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  52
+trs:  2
+  
+Values of Output Variables
+total profit:  33259.3333333333
+  
+New Objective:  33259.3333333333(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 105
+1/11/2021 10:07:36 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  32
+Taget Stock:  64
+trs:  -10
+  
+Values of Output Variables
+total profit:  32990.6666666667
+  
+New Objective:  32990.6666666667(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 106
+1/11/2021 10:07:37 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  52
+trs:  -1
+  
+Values of Output Variables
+total profit:  34188.6666666667
+  
+New Objective:  34188.6666666667(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 107
+1/11/2021 10:07:38 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  30
+Taget Stock:  62
+trs:  -8
+  
+Values of Output Variables
+total profit:  32379.3333333333
+  
+New Objective:  32379.3333333333(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 108
+1/11/2021 10:07:39 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  46
+trs:  1
+  
+Values of Output Variables
+total profit:  39126.3333333333
+  
+New Objective:  39126.3333333333(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 109
+1/11/2021 10:07:41 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  32
+Taget Stock:  61
+trs:  -10
+  
+Values of Output Variables
+total profit:  34000
+  
+New Objective:  34000(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 110
+1/11/2021 10:07:42 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  41
+trs:  -1
+  
+Values of Output Variables
+total profit:  42364.3333333333
+  
+New Objective:  42364.3333333333(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 111
+1/11/2021 10:07:43 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  31
+Taget Stock:  59
+trs:  -10
+  
+Values of Output Variables
+total profit:  37598.3333333333
+  
+New Objective:  37598.3333333333(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 112
+1/11/2021 10:07:45 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  39
+Taget Stock:  45
+trs:  -5
+  
+Values of Output Variables
+total profit:  45430
+  
+New Objective:  45430(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 113
+1/11/2021 10:07:46 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  24
+Taget Stock:  61
+trs:  -10
+  
+Values of Output Variables
+total profit:  35015.6666666667
+  
+New Objective:  35015.6666666667(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 114
+1/11/2021 10:07:47 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  38
+Taget Stock:  42
+trs:  -10
+  
+Values of Output Variables
+total profit:  51227.6666666667
+  
+New Objective:  51227.6666666667(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 115
+1/11/2021 10:07:49 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  28
+Taget Stock:  61
+trs:  -10
+  
+Values of Output Variables
+total profit:  37281
+  
+New Objective:  37281(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 116
+1/11/2021 10:07:50 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  40
+trs:  -10
+  
+Values of Output Variables
+total profit:  53128.3333333333
+  
+New Objective:  53128.3333333333(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 117
+1/11/2021 10:07:52 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  23
+Taget Stock:  57
+trs:  -10
+  
+Values of Output Variables
+total profit:  38514.6666666667
+  
+New Objective:  38514.6666666667(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 118
+1/11/2021 10:07:53 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  35
+trs:  -10
+  
+Values of Output Variables
+total profit:  51384.3333333333
+  
+New Objective:  51384.3333333333(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 119
+1/11/2021 10:07:55 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  20
+Taget Stock:  54
+trs:  -10
+  
+Values of Output Variables
+total profit:  35435
+  
+New Objective:  35435(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 120
+1/11/2021 10:07:56 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  39
+Taget Stock:  40
+trs:  -10
+  
+Values of Output Variables
+total profit:  53128.3333333333
+  
+New Objective:  53128.3333333333(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 121
+1/11/2021 10:07:57 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  39
+Taget Stock:  30
+trs:  -10
+  
+Values of Output Variables
+total profit:  37451
+  
+New Objective:  37451(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 122
+1/11/2021 10:07:59 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  31
+Taget Stock:  57
+trs:  -10
+  
+Values of Output Variables
+total profit:  35704.3333333333
+  
+New Objective:  35704.3333333333(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 123
+1/11/2021 10:08:00 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  39
+Taget Stock:  36
+trs:  -8
+  
+Values of Output Variables
+total profit:  50009.3333333333
+  
+New Objective:  50009.3333333333(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 124
+1/11/2021 10:08:01 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  29
+Taget Stock:  58
+trs:  -10
+  
+Values of Output Variables
+total profit:  38603.3333333333
+  
+New Objective:  38603.3333333333(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 125
+1/11/2021 10:08:02 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  38
+Taget Stock:  38
+trs:  -10
+  
+Values of Output Variables
+total profit:  52743.6666666667
+  
+New Objective:  52743.6666666667(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 126
+1/11/2021 10:08:04 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  27
+Taget Stock:  55
+trs:  -10
+  
+Values of Output Variables
+total profit:  39331.6666666667
+  
+New Objective:  39331.6666666667(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 127
+1/11/2021 10:08:05 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  38
+Taget Stock:  44
+trs:  -10
+  
+Values of Output Variables
+total profit:  48849.6666666667
+  
+New Objective:  48849.6666666667(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 128
+1/11/2021 10:08:06 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  26
+Taget Stock:  52
+trs:  -10
+  
+Values of Output Variables
+total profit:  42138.6666666667
+  
+New Objective:  42138.6666666667(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 129
+1/11/2021 10:08:08 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  39
+Taget Stock:  38
+trs:  -9
+  
+Values of Output Variables
+total profit:  52267
+  
+New Objective:  52267(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 130
+1/11/2021 10:08:09 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  21
+Taget Stock:  52
+trs:  -10
+  
+Values of Output Variables
+total profit:  37517
+  
+New Objective:  37517(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 131
+1/11/2021 10:08:10 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  35
+trs:  -9
+  
+Values of Output Variables
+total profit:  50112
+  
+New Objective:  50112(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 132
+1/11/2021 10:08:12 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  29
+Taget Stock:  57
+trs:  -10
+  
+Values of Output Variables
+total profit:  37594.6666666667
+  
+New Objective:  37594.6666666667(Best = 53128.3333333333)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 133   ****NEW BEST SOLUTION****
+1/11/2021 10:08:13 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  39
+Taget Stock:  39
+trs:  -10
+  
+Values of Output Variables
+total profit:  53215
+  
+New Objective:  53215(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 134
+1/11/2021 10:08:14 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  28
+Taget Stock:  55
+trs:  -10
+  
+Values of Output Variables
+total profit:  38748.3333333333
+  
+New Objective:  38748.3333333333(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 135
+1/11/2021 10:08:16 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  39
+trs:  -10
+  
+Values of Output Variables
+total profit:  53215
+  
+New Objective:  53215(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 136
+1/11/2021 10:08:17 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  25
+Taget Stock:  55
+trs:  -10
+  
+Values of Output Variables
+total profit:  40850.6666666667
+  
+New Objective:  40850.6666666667(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 137
+1/11/2021 10:08:18 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  38
+Taget Stock:  39
+trs:  -10
+  
+Values of Output Variables
+total profit:  53215
+  
+New Objective:  53215(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 138
+1/11/2021 10:08:20 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  36
+Taget Stock:  39
+trs:  -10
+  
+Values of Output Variables
+total profit:  53215
+  
+New Objective:  53215(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 139
+1/11/2021 10:08:21 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  36
+Taget Stock:  40
+trs:  -10
+  
+Values of Output Variables
+total profit:  53128.3333333333
+  
+New Objective:  53128.3333333333(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 140
+1/11/2021 10:08:22 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  38
+trs:  -10
+  
+Values of Output Variables
+total profit:  52743.6666666667
+  
+New Objective:  52743.6666666667(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 141
+1/11/2021 10:08:24 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  29
+Taget Stock:  56
+trs:  -10
+  
+Values of Output Variables
+total profit:  38049.6666666667
+  
+New Objective:  38049.6666666667(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 142
+1/11/2021 10:08:25 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  35
+Taget Stock:  39
+trs:  -10
+  
+Values of Output Variables
+total profit:  53215
+  
+New Objective:  53215(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 143
+1/11/2021 10:08:26 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  37
+Taget Stock:  39
+trs:  -10
+  
+Values of Output Variables
+total profit:  53215
+  
+New Objective:  53215(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 144
+1/11/2021 10:08:27 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  39
+Taget Stock:  38
+trs:  -10
+  
+Values of Output Variables
+total profit:  52743.6666666667
+  
+New Objective:  52743.6666666667(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 145
+1/11/2021 10:08:29 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  24
+Taget Stock:  52
+trs:  -10
+  
+Values of Output Variables
+total profit:  39594
+  
+New Objective:  39594(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 146
+1/11/2021 10:08:30 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  22
+Taget Stock:  59
+trs:  8
+  
+Values of Output Variables
+total profit:  -34703
+  
+New Objective:  -34703(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 147
+1/11/2021 10:08:31 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  37
+Taget Stock:  33
+trs:  10
+  
+Values of Output Variables
+total profit:  -46565.3333333333
+  
+New Objective:  -46565.3333333333(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 148
+1/11/2021 10:08:33 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  26
+Taget Stock:  64
+trs:  -9
+  
+Values of Output Variables
+total profit:  28942
+  
+New Objective:  28942(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 149
+1/11/2021 10:08:34 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  39
+Taget Stock:  60
+trs:  5
+  
+Values of Output Variables
+total profit:  18036
+  
+New Objective:  18036(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 150
+1/11/2021 10:08:35 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  21
+Taget Stock:  38
+trs:  -3
+  
+Values of Output Variables
+total profit:  41131.3333333333
+  
+New Objective:  41131.3333333333(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 151
+1/11/2021 10:08:36 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  30
+Taget Stock:  51
+trs:  0
+  
+Values of Output Variables
+total profit:  31351.6666666667
+  
+New Objective:  31351.6666666667(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 152
+1/11/2021 10:08:38 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  21
+Taget Stock:  36
+trs:  8
+  
+Values of Output Variables
+total profit:  -18296.3333333333
+  
+New Objective:  -18296.3333333333(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 153
+1/11/2021 10:08:39 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  38
+Taget Stock:  37
+trs:  -1
+  
+Values of Output Variables
+total profit:  36192.6666666667
+  
+New Objective:  36192.6666666667(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 154
+1/11/2021 10:08:40 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  29
+Taget Stock:  48
+trs:  9
+  
+Values of Output Variables
+total profit:  9175
+  
+New Objective:  9175(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 155
+1/11/2021 10:08:42 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  23
+Taget Stock:  65
+trs:  -1
+  
+Values of Output Variables
+total profit:  6921.66666666667
+  
+New Objective:  6921.66666666667(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 156
+1/11/2021 10:08:43 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  22
+Taget Stock:  51
+trs:  -10
+  
+Values of Output Variables
+total profit:  41945.3333333333
+  
+New Objective:  41945.3333333333(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 157
+1/11/2021 10:08:44 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  34
+Taget Stock:  59
+trs:  8
+  
+Values of Output Variables
+total profit:  6361.33333333333
+  
+New Objective:  6361.33333333333(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 158
+1/11/2021 10:08:45 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  35
+Taget Stock:  38
+trs:  -9
+  
+Values of Output Variables
+total profit:  52267
+  
+New Objective:  52267(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 159
+1/11/2021 10:08:47 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  38
+Taget Stock:  40
+trs:  -10
+  
+Values of Output Variables
+total profit:  53128.3333333333
+  
+New Objective:  53128.3333333333(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 160
+1/11/2021 10:08:48 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  25
+Taget Stock:  36
+trs:  8
+  
+Values of Output Variables
+total profit:  -17282.6666666667
+  
+New Objective:  -17282.6666666667(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 161
+1/11/2021 10:08:49 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  48
+trs:  -10
+  
+Values of Output Variables
+total profit:  41955.6666666667
+  
+New Objective:  41955.6666666667(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 162
+1/11/2021 10:08:51 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  32
+Taget Stock:  39
+trs:  -9
+  
+Values of Output Variables
+total profit:  51721.6666666667
+  
+New Objective:  51721.6666666667(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 163
+1/11/2021 10:08:52 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  36
+Taget Stock:  39
+trs:  -6
+  
+Values of Output Variables
+total profit:  49971.6666666667
+  
+New Objective:  49971.6666666667(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 164
+1/11/2021 10:08:53 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  22
+Taget Stock:  48
+trs:  -10
+  
+Values of Output Variables
+total profit:  42595.6666666667
+  
+New Objective:  42595.6666666667(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 165
+1/11/2021 10:08:54 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  35
+Taget Stock:  39
+trs:  -8
+  
+Values of Output Variables
+total profit:  51348
+  
+New Objective:  51348(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 166
+1/11/2021 10:08:56 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  21
+Taget Stock:  37
+trs:  7
+  
+Values of Output Variables
+total profit:  -8764
+  
+New Objective:  -8764(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 167
+1/11/2021 10:08:57 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  26
+Taget Stock:  36
+trs:  4
+  
+Values of Output Variables
+total profit:  8360.66666666667
+  
+New Objective:  8360.66666666667(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 168
+1/11/2021 10:08:58 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  23
+Taget Stock:  42
+trs:  7
+  
+Values of Output Variables
+total profit:  4665
+  
+New Objective:  4665(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 169
+1/11/2021 10:09:00 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  26
+Taget Stock:  38
+trs:  -2
+  
+Values of Output Variables
+total profit:  42261.6666666667
+  
+New Objective:  42261.6666666667(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 170
+1/11/2021 10:09:01 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  20
+Taget Stock:  38
+trs:  -3
+  
+Values of Output Variables
+total profit:  35086
+  
+New Objective:  35086(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 171
+1/11/2021 10:09:02 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  46
+trs:  -10
+  
+Values of Output Variables
+total profit:  45238.3333333333
+  
+New Objective:  45238.3333333333(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 172
+1/11/2021 10:09:04 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  23
+Taget Stock:  44
+trs:  -2
+  
+Values of Output Variables
+total profit:  34436.3333333333
+  
+New Objective:  34436.3333333333(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 173
+1/11/2021 10:09:05 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  37
+Taget Stock:  43
+trs:  -1
+  
+Values of Output Variables
+total profit:  43004.6666666667
+  
+New Objective:  43004.6666666667(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 174
+1/11/2021 10:09:06 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  29
+Taget Stock:  40
+trs:  -1
+  
+Values of Output Variables
+total profit:  41360.3333333333
+  
+New Objective:  41360.3333333333(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 175
+1/11/2021 10:09:08 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  25
+Taget Stock:  53
+trs:  -10
+  
+Values of Output Variables
+total profit:  41380.6666666667
+  
+New Objective:  41380.6666666667(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 176
+1/11/2021 10:09:09 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  22
+Taget Stock:  65
+trs:  8
+  
+Values of Output Variables
+total profit:  -35243.3333333333
+  
+New Objective:  -35243.3333333333(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 177
+1/11/2021 10:09:10 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  31
+Taget Stock:  39
+trs:  -6
+  
+Values of Output Variables
+total profit:  49971.6666666667
+  
+New Objective:  49971.6666666667(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 178
+1/11/2021 10:09:12 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  22
+Taget Stock:  37
+trs:  3
+  
+Values of Output Variables
+total profit:  17697.3333333333
+  
+New Objective:  17697.3333333333(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 179
+1/11/2021 10:09:13 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  22
+Taget Stock:  37
+trs:  7
+  
+Values of Output Variables
+total profit:  -6004.66666666667
+  
+New Objective:  -6004.66666666667(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 180
+1/11/2021 10:09:14 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  20
+Taget Stock:  37
+trs:  7
+  
+Values of Output Variables
+total profit:  -11079
+  
+New Objective:  -11079(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 181
+1/11/2021 10:09:15 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  44
+trs:  0
+  
+Values of Output Variables
+total profit:  41212.3333333333
+  
+New Objective:  41212.3333333333(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 182
+1/11/2021 10:09:17 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  65
+trs:  -3
+  
+Values of Output Variables
+total profit:  19173.6666666667
+  
+New Objective:  19173.6666666667(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 183
+1/11/2021 10:09:18 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  21
+Taget Stock:  44
+trs:  0
+  
+Values of Output Variables
+total profit:  21246
+  
+New Objective:  21246(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 184
+1/11/2021 10:09:19 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  29
+Taget Stock:  38
+trs:  2
+  
+Values of Output Variables
+total profit:  27489.3333333333
+  
+New Objective:  27489.3333333333(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 185
+1/11/2021 10:09:21 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  23
+Taget Stock:  36
+trs:  8
+  
+Values of Output Variables
+total profit:  -17918
+  
+New Objective:  -17918(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 186
+1/11/2021 10:09:22 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  29
+Taget Stock:  38
+trs:  4
+  
+Values of Output Variables
+total profit:  18160.3333333333
+  
+New Objective:  18160.3333333333(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 187
+1/11/2021 10:09:23 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  22
+Taget Stock:  37
+trs:  6
+  
+Values of Output Variables
+total profit:  412
+  
+New Objective:  412(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 188
+1/11/2021 10:09:24 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  28
+Taget Stock:  38
+trs:  1
+  
+Values of Output Variables
+total profit:  33212.6666666667
+  
+New Objective:  33212.6666666667(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 189
+1/11/2021 10:09:26 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  24
+Taget Stock:  49
+trs:  -10
+  
+Values of Output Variables
+total profit:  42503.6666666667
+  
+New Objective:  42503.6666666667(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 190
+1/11/2021 10:09:27 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  22
+Taget Stock:  59
+trs:  10
+  
+Values of Output Variables
+total profit:  -44024.3333333333
+  
+New Objective:  -44024.3333333333(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 191
+1/11/2021 10:09:28 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  32
+Taget Stock:  44
+trs:  -9
+  
+Values of Output Variables
+total profit:  49222.3333333333
+  
+New Objective:  49222.3333333333(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 192
+1/11/2021 10:09:30 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  38
+Taget Stock:  32
+trs:  -10
+  
+Values of Output Variables
+total profit:  45823.3333333333
+  
+New Objective:  45823.3333333333(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 193
+1/11/2021 10:09:31 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  36
+Taget Stock:  30
+trs:  -10
+  
+Values of Output Variables
+total profit:  37451
+  
+New Objective:  37451(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 194
+1/11/2021 10:09:32 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  23
+Taget Stock:  61
+trs:  6
+  
+Values of Output Variables
+total profit:  -22449
+  
+New Objective:  -22449(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 195
+1/11/2021 10:09:33 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  22
+Taget Stock:  39
+trs:  8
+  
+Values of Output Variables
+total profit:  -7254.33333333333
+  
+New Objective:  -7254.33333333333(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 196
+1/11/2021 10:09:35 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  35
+Taget Stock:  65
+trs:  -10
+  
+Values of Output Variables
+total profit:  28183
+  
+New Objective:  28183(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 197
+1/11/2021 10:09:36 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  23
+Taget Stock:  65
+trs:  9
+  
+Values of Output Variables
+total profit:  -34751.6666666667
+  
+New Objective:  -34751.6666666667(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 198
+1/11/2021 10:09:37 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  23
+Taget Stock:  52
+trs:  8
+  
+Values of Output Variables
+total profit:  -15977.3333333333
+  
+New Objective:  -15977.3333333333(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 199
+1/11/2021 10:09:39 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  20
+Taget Stock:  65
+trs:  8
+  
+Values of Output Variables
+total profit:  -37311
+  
+New Objective:  -37311(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 200
+1/11/2021 10:09:40 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  65
+trs:  8
+  
+Values of Output Variables
+total profit:  6980.66666666667
+  
+New Objective:  6980.66666666667(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 201
+1/11/2021 10:09:41 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  22
+Taget Stock:  55
+trs:  8
+  
+Values of Output Variables
+total profit:  -26420.6666666667
+  
+New Objective:  -26420.6666666667(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 202
+1/11/2021 10:09:42 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  23
+Taget Stock:  65
+trs:  8
+  
+Values of Output Variables
+total profit:  -29306.3333333333
+  
+New Objective:  -29306.3333333333(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 203
+1/11/2021 10:09:44 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  25
+Taget Stock:  43
+trs:  4
+  
+Values of Output Variables
+total profit:  20811.6666666667
+  
+New Objective:  20811.6666666667(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 204
+1/11/2021 10:09:45 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  24
+Taget Stock:  46
+trs:  -10
+  
+Values of Output Variables
+total profit:  47787.6666666667
+  
+New Objective:  47787.6666666667(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 205
+1/11/2021 10:09:46 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  30
+Taget Stock:  63
+trs:  6
+  
+Values of Output Variables
+total profit:  141.666666666667
+  
+New Objective:  141.666666666667(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 206
+1/11/2021 10:09:48 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  23
+Taget Stock:  46
+trs:  -10
+  
+Values of Output Variables
+total profit:  44667.6666666667
+  
+New Objective:  44667.6666666667(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 207
+1/11/2021 10:09:49 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  35
+Taget Stock:  56
+trs:  7
+  
+Values of Output Variables
+total profit:  16308.6666666667
+  
+New Objective:  16308.6666666667(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 208
+1/11/2021 10:09:50 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  27
+Taget Stock:  45
+trs:  -10
+  
+Values of Output Variables
+total profit:  48290.3333333333
+  
+New Objective:  48290.3333333333(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 209
+1/11/2021 10:09:51 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  52
+trs:  7
+  
+Values of Output Variables
+total profit:  28722
+  
+New Objective:  28722(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 210
+1/11/2021 10:09:53 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  30
+Taget Stock:  42
+trs:  -10
+  
+Values of Output Variables
+total profit:  52004.3333333333
+  
+New Objective:  52004.3333333333(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 211
+1/11/2021 10:09:54 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  57
+trs:  6
+  
+Values of Output Variables
+total profit:  21016
+  
+New Objective:  21016(Best = 53215)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 212   ****NEW BEST SOLUTION****
+1/11/2021 10:09:55 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  25
+Taget Stock:  37
+trs:  -10
+  
+Values of Output Variables
+total profit:  54649.6666666667
+  
+New Objective:  54649.6666666667(Best = 54649.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 213
+1/11/2021 10:09:57 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  26
+Taget Stock:  37
+trs:  -10
+  
+Values of Output Variables
+total profit:  53611.6666666667
+  
+New Objective:  53611.6666666667(Best = 54649.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 214
+1/11/2021 10:09:58 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  49
+trs:  8
+  
+Values of Output Variables
+total profit:  24331
+  
+New Objective:  24331(Best = 54649.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 215
+1/11/2021 10:09:59 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  24
+Taget Stock:  30
+trs:  -10
+  
+Values of Output Variables
+total profit:  37120.3333333333
+  
+New Objective:  37120.3333333333(Best = 54649.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 216
+1/11/2021 10:10:00 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  46
+trs:  6
+  
+Values of Output Variables
+total profit:  28218
+  
+New Objective:  28218(Best = 54649.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 217
+1/11/2021 10:10:02 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  28
+Taget Stock:  37
+trs:  -10
+  
+Values of Output Variables
+total profit:  52500.6666666667
+  
+New Objective:  52500.6666666667(Best = 54649.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 218
+1/11/2021 10:10:03 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  24
+Taget Stock:  36
+trs:  -10
+  
+Values of Output Variables
+total profit:  53437
+  
+New Objective:  53437(Best = 54649.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 219
+1/11/2021 10:10:04 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  20
+Taget Stock:  37
+trs:  -10
+  
+Values of Output Variables
+total profit:  53739.3333333333
+  
+New Objective:  53739.3333333333(Best = 54649.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 220
+1/11/2021 10:10:06 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  33
+Taget Stock:  38
+trs:  -10
+  
+Values of Output Variables
+total profit:  52743.6666666667
+  
+New Objective:  52743.6666666667(Best = 54649.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 221
+1/11/2021 10:10:07 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  24
+Taget Stock:  40
+trs:  -7
+  
+Values of Output Variables
+total profit:  50416.3333333333
+  
+New Objective:  50416.3333333333(Best = 54649.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 222
+1/11/2021 10:10:08 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  23
+Taget Stock:  37
+trs:  -3
+  
+Values of Output Variables
+total profit:  43005.3333333333
+  
+New Objective:  43005.3333333333(Best = 54649.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 223
+1/11/2021 10:10:10 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  25
+Taget Stock:  37
+trs:  -5
+  
+Values of Output Variables
+total profit:  47436.6666666667
+  
+New Objective:  47436.6666666667(Best = 54649.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 224
+1/11/2021 10:10:11 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  25
+Taget Stock:  44
+trs:  -10
+  
+Values of Output Variables
+total profit:  50274.3333333333
+  
+New Objective:  50274.3333333333(Best = 54649.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 225
+1/11/2021 10:10:12 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  26
+Taget Stock:  43
+trs:  1
+  
+Values of Output Variables
+total profit:  37008.6666666667
+  
+New Objective:  37008.6666666667(Best = 54649.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 226
+1/11/2021 10:10:13 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  30
+Taget Stock:  37
+trs:  -10
+  
+Values of Output Variables
+total profit:  52702.6666666667
+  
+New Objective:  52702.6666666667(Best = 54649.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 227
+1/11/2021 10:10:15 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  41
+trs:  8
+  
+Values of Output Variables
+total profit:  9201.33333333333
+  
+New Objective:  9201.33333333333(Best = 54649.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 228
+1/11/2021 10:10:16 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  33
+Taget Stock:  31
+trs:  -10
+  
+Values of Output Variables
+total profit:  41526.3333333333
+  
+New Objective:  41526.3333333333(Best = 54649.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 229
+1/11/2021 10:10:17 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  53
+trs:  7
+  
+Values of Output Variables
+total profit:  27674.3333333333
+  
+New Objective:  27674.3333333333(Best = 54649.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 230
+1/11/2021 10:10:19 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  26
+Taget Stock:  42
+trs:  -10
+  
+Values of Output Variables
+total profit:  51412
+  
+New Objective:  51412(Best = 54649.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 231
+1/11/2021 10:10:20 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  52
+trs:  5
+  
+Values of Output Variables
+total profit:  30255.3333333333
+  
+New Objective:  30255.3333333333(Best = 54649.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 232
+1/11/2021 10:10:21 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  31
+Taget Stock:  35
+trs:  -10
+  
+Values of Output Variables
+total profit:  51384.3333333333
+  
+New Objective:  51384.3333333333(Best = 54649.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 233
+1/11/2021 10:10:23 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  54
+trs:  3
+  
+Values of Output Variables
+total profit:  29304.3333333333
+  
+New Objective:  29304.3333333333(Best = 54649.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 234
+1/11/2021 10:10:24 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  27
+Taget Stock:  40
+trs:  -10
+  
+Values of Output Variables
+total profit:  53675.3333333333
+  
+New Objective:  53675.3333333333(Best = 54649.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 235
+1/11/2021 10:10:25 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  47
+trs:  5
+  
+Values of Output Variables
+total profit:  31911
+  
+New Objective:  31911(Best = 54649.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 236
+1/11/2021 10:10:27 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  25
+Taget Stock:  34
+trs:  -10
+  
+Values of Output Variables
+total profit:  50262.6666666667
+  
+New Objective:  50262.6666666667(Best = 54649.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 237
+1/11/2021 10:10:28 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  44
+trs:  4
+  
+Values of Output Variables
+total profit:  31976.6666666667
+  
+New Objective:  31976.6666666667(Best = 54649.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 238
+1/11/2021 10:10:29 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  29
+Taget Stock:  40
+trs:  -10
+  
+Values of Output Variables
+total profit:  53669
+  
+New Objective:  53669(Best = 54649.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 239
+1/11/2021 10:10:31 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  53
+trs:  5
+  
+Values of Output Variables
+total profit:  28878.6666666667
+  
+New Objective:  28878.6666666667(Best = 54649.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 240
+1/11/2021 10:10:32 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  24
+Taget Stock:  41
+trs:  -10
+  
+Values of Output Variables
+total profit:  53143.6666666667
+  
+New Objective:  53143.6666666667(Best = 54649.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 241
+1/11/2021 10:10:33 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  47
+trs:  2
+  
+Values of Output Variables
+total profit:  37655
+  
+New Objective:  37655(Best = 54649.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 242
+1/11/2021 10:10:34 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  26
+Taget Stock:  40
+trs:  -10
+  
+Values of Output Variables
+total profit:  54571
+  
+New Objective:  54571(Best = 54649.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 243
+1/11/2021 10:10:36 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  44
+trs:  -1
+  
+Values of Output Variables
+total profit:  42991
+  
+New Objective:  42991(Best = 54649.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 244
+1/11/2021 10:10:37 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  23
+Taget Stock:  38
+trs:  -10
+  
+Values of Output Variables
+total profit:  53402.3333333333
+  
+New Objective:  53402.3333333333(Best = 54649.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 245
+1/11/2021 10:10:38 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  40
+Taget Stock:  40
+trs:  0
+  
+Values of Output Variables
+total profit:  38562.3333333333
+  
+New Objective:  38562.3333333333(Best = 54649.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 246
+1/11/2021 10:10:39 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  26
+Taget Stock:  39
+trs:  -10
+  
+Values of Output Variables
+total profit:  54229.6666666667
+  
+New Objective:  54229.6666666667(Best = 54649.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 247
+1/11/2021 10:10:41 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  25
+Taget Stock:  40
+trs:  -10
+  
+Values of Output Variables
+total profit:  53999
+  
+New Objective:  53999(Best = 54649.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 248
+1/11/2021 10:10:42 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  20
+Taget Stock:  41
+trs:  -10
+  
+Values of Output Variables
+total profit:  47505
+  
+New Objective:  47505(Best = 54649.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 249
+1/11/2021 10:10:43 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  24
+Taget Stock:  52
+trs:  -9
+  
+Values of Output Variables
+total profit:  40945
+  
+New Objective:  40945(Best = 54649.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 250
+1/11/2021 10:10:45 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  24
+Taget Stock:  39
+trs:  -3
+  
+Values of Output Variables
+total profit:  44116.3333333333
+  
+New Objective:  44116.3333333333(Best = 54649.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+Simulation: 251
+1/11/2021 10:10:47 AM
+Number of Replications: 3
+  
+Values of Decision Variables
+Reorder Point:  26
+Taget Stock:  44
+trs:  -3
+  
+Values of Output Variables
+total profit:  43280.6666666667
+  
+New Objective:  43280.6666666667(Best = 54649.6666666667)
+Constraint1:  Linear feasible
+New Constraint:  NonLinear feasible
+  
+  
+ 
+Optimization Summary
+Optimization started at 1/11/2021 10:05:18 AM and ended at 1/11/2021 10:10:47 AM
+Best solution generated at simulation 212 of 251 total simulations.
+ 
